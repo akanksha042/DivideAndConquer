@@ -18,16 +18,20 @@ In this repository, you will find various Divide and Conquer questions along wit
 The following questions are included in this repository:
 
 1. **Majority Element**: Given an array of integers, find the majority element (the element that appears more than n/2 times), if it exists.
-   - Solution: [Java implementation of Majority Element](link-to-majority-element)
+   - Solution: [Java implementation of Majority Element](https://github.com/akanksha042/DivideAndConquer/blob/main/MajorityElements.java)
 
 2. **Merge Sort**: Implement the merge sort algorithm to sort an array of integers in ascending order.
-   - Solution: [Java implementation of Merge Sort](link-to-merge-sort)
+   - Solution: [Java implementation of Merge Sort](https://github.com/akanksha042/DivideAndConquer/blob/main/MergeSort.java)
 
-3. **Quick Sort**: Implement the quick sort algorithm to sort an array of integers in ascending order.
-   - Solution: [Java implementation of Quick Sort](link-to-quick-sort)
+3.  **Merge Sort in String**: Implement the merge sort algorithm to sort array of strings in alphabetical order.
+    - Solution: [Java implementation of Merge Sort for String](https://github.com/akanksha042/DivideAndConquer/blob/main/MergeSortInString.java
+)
 
-4. **Search in Rotated Sorted Array**: Given a rotated sorted array of integers and a target value, find the index of the target element in the array (or return -1 if it is not present).
-   - Solution: [Java implementation of Search in Rotated Sorted Array](link-to-search-in-rotated-sorted-array)
+5. **Quick Sort**: Implement the quick sort algorithm to sort an array of integers in ascending order.
+   - Solution: [Java implementation of Quick Sort](https://github.com/akanksha042/DivideAndConquer/blob/main/QuickSort.java)
+
+6. **Search in Rotated Sorted Array**: Given a rotated sorted array of integers and a target value, find the index of the target element in the array (or return -1 if it is not present).
+   - Solution: [Java implementation of Search in Rotated Sorted Array](https://github.com/akanksha042/DivideAndConquer/blob/main/SearchInRotatedSortedArray)
 
 ...
 
